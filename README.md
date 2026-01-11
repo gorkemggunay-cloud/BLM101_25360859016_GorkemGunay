@@ -1,6 +1,3 @@
-Readme bug projesi için
-
-
 # Veri Depolama ve Sıkıştırma Algoritmaları (RLE Projesi)
 
 ## Öğrenci Bilgileri
